@@ -263,5 +263,5 @@ interface ODataFilterBuilderStatic {
 * for further information.
 */
 declare var ODataFilterBuilder: ODataFilterBuilderStatic;
-export default ODataFilterBuilder;
+export = ODataFilterBuilder;
 
